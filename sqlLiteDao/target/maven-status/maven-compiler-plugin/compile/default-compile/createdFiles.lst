@@ -1,0 +1,7 @@
+ufes\sqllitedao\Principal.class
+Dao\Connect.class
+Dao\ClienteDAOSQLite.class
+Dao\ClienteDAO.class
+Dao\CriacaoDasTabelas.class
+presenter\GerenciadorClienteService.class
+ufes\sqllitedao\model\Cliente.class
